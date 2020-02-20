@@ -1,54 +1,138 @@
-{
-  "2020-01-16": [
-    "Narendra",
-    "Vivek",
-    "Phani",
-    "Ajay",
-    "Vikas "
-  ],
-  "2020-01-23": [
-    "GP",
-    "Swayam",
-    "Vivek",
-    "Vijay",
-    "Vikas"
-  ],
-  "2020-01-30": [
-    "Mahesh",
-    "Vivek",
-    "Swayam",
-    "SB",
-    "Penchal",
-    "Vikas"
-  ],
-  "2020-06-02": [
-    "Arjit",
-    "Ajay",
-    "GP",
-    "Penchal",
-    "Vikas"
-  ],
-  "2020-02-13": [
-    "Arjit",
-    "Swayam",
-    "Kshitij",
-    "Varun",
-    "Penchal",
-    "Abhijeet",
-    "Dragon Warrior",
-    "Vijay",
-    "Vikas"
-  ],
-  "2020-02-13": [
-    "Arjit",
-    "Swayam",
-    "Kshitij",
-    "Varun",
-    "Penchal",
-    "Abhijeet",
-    "Dragon Warrior",
-    "Vijay",
-    "Vikas"
-  ]
-}
-
+[
+  {
+    "2020-01-16": {
+      "members": [
+        "Narendra",
+        "Vivek",
+        "Phani",
+        "Ajay",
+        "Vikas"
+      ],
+      "transactions": [
+        {
+          "type": "CREDIT",
+          "description": "NETS",
+          "amt": 35
+        }
+      ]
+    }
+  },
+  {
+    "2020-01-23": {
+      "members": [
+        "GP",
+        "SB",
+        "Vivek",
+        "Vijay",
+        "Vikas"
+      ],
+      "transactions": [
+        {
+          "type": "CREDIT",
+          "description": "NETS",
+          "amt": 35
+        }
+      ]
+    }
+  },
+  {
+    "2020-01-30": {
+      "members": [
+        "Mahesh",
+        "Vivek",
+        "SB",
+        "Penchal",
+        "Vikas"
+      ],
+      "transactions": [
+        {
+          "type": "CREDIT",
+          "description": "NETS",
+          "amt": 35
+        }
+      ]
+    }
+  },
+  {
+    "2020-06-02": {
+      "members": [
+        "Arjit",
+        "Ajay",
+        "GP",
+        "Penchal",
+        "Vikas"
+      ],
+      "transactions": [
+        {
+          "type": "CREDIT",
+          "description": "NETS",
+          "amt": 35
+        }
+      ]
+    }
+  },
+  {
+    "2020-02-13": {
+      "members": [
+        "Arjit",
+        "SB",
+        "Kshitij",
+        "Varun",
+        "Penchal",
+        "Abhijeet",
+        "Dragon Warrior",
+        "Vijay",
+        "Vikas"
+      ],
+      "transactions": [
+        {
+          "type": "CREDIT",
+          "description": "NETS",
+          "amt": 70
+        }
+      ]
+    }
+  },
+  {
+    "2020-02-16": {
+      "members": [
+        "Narendra"
+      ],
+      "transactions": [
+        {
+          "type": "DEBIT",
+          "description": "NETS",
+          "amt": 21
+        }
+      ]
+    }
+  },
+  {
+    "2020-02-16": {
+      "members": [
+        "GP"
+      ],
+      "transactions": [
+        {
+          "type": "DEBIT",
+          "description": "NETS",
+          "amt": 60
+        }
+      ]
+    }
+  },
+  {
+    "2020-02-16": {
+      "members": [
+        "SB"
+      ],
+      "transactions": [
+        {
+          "type": "DEBIT",
+          "description": "BIRYANI",
+          "amt": 15
+        }
+      ]
+    }
+  }
+]
